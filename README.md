@@ -1,10 +1,21 @@
 # TextNumberConverterAPI
-![GitHub issues](https://img.shields.io/github/issues/cansozbir/TextNumberConverterAPI) ![GitHub contributors](https://img.shields.io/github/contributors/cansozbir/TextNumberConverterAPI)  ![GitHub forks](https://img.shields.io/github/forks/cansozbir/TextNumberConverterAPI) ![GitHub Repo stars](https://img.shields.io/github/stars/cansozbir/TextNumberConverterAPI?color=yellow) ![GitHub](https://img.shields.io/github/license/cansozbir/TextNumberConverterAPI)
 
+<div align="center" style="text-align: center">
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+</div>
+
+<div align="center" style="text-align: center" >
+<img src="https://github.com/cansozbir/TextNumberConverterAPI/assets/32648255/f5d865cf-9f5a-4202-929b-940d7be05a9b">
+</div>
 
 The TextNumberConverterAPI is a RESTful API that allows users to convert text containing numbers into their corresponding numeric representation. The API supports the conversion of Turkish numbers and provides a flexible architecture to support additional languages in the future.
 
-Publicly available at : https://textnumberconverterapi-wa.azurewebsites.net <br>
+Publicly available at: https://textnumberconverterapi-wa.azurewebsites.net <br>
 Swagger UI: https://textnumberconverterapi-wa.azurewebsites.net/swagger/index.html
 
 
@@ -25,7 +36,7 @@ cd TextNumberConverterAPI
 dotnet run --project=TextNumberConverterAPI --urls="http://localhost:5000"
 ```
 \
-Alternatively, if you have docker running on background, you can run the project by command below, this way you don't need to install any .NET SDK on your machine.
+Alternatively, if you have docker running in the background, you can run the project by command below, this way you don't need to install any .NET SDK on your machine.
 ```
 docker-compose up
 ```
@@ -97,3 +108,15 @@ The TextNumberConverterAPI is open-source software licensed under the MIT Licens
 
 # Contact
 For any questions or feedback, please reach out to the project maintainer at cansozbirdev@gmail.com
+
+
+[contributors-shield]: https://img.shields.io/github/contributors/cansozbir/TextNumberConverterAPI.svg?style=for-the-badge
+[contributors-url]: https://github.com/cansozbir/TextNumberConverterAPI/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/cansozbir/TextNumberConverterAPI.svg?style=for-the-badge
+[forks-url]: https://github.com/cansozbir/TextNumberConverterAPI/network/members
+[stars-shield]: https://img.shields.io/github/stars/cansozbir/TextNumberConverterAPI.svg?style=for-the-badge
+[stars-url]: https://github.com/cansozbir/TextNumberConverterAPI/stargazers
+[issues-shield]: https://img.shields.io/github/issues/cansozbir/TextNumberConverterAPI.svg?style=for-the-badge
+[issues-url]: https://github.com/cansozbir/TextNumberConverterAPI/issues
+[license-shield]: https://img.shields.io/github/license/cansozbir/TextNumberConverterAPI.svg?style=for-the-badge
+[license-url]: https://github.com/cansozbir/TextNumberConverterAPI/blob/master/LICENSE
