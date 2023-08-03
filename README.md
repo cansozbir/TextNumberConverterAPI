@@ -13,7 +13,7 @@ To run the TextNumberConverterAPI on your machine, make sure you have the follow
 Clone the repository to your local machine:
 
 ```
-git clone https://github.com/your-username/TextNumberConverterAPI.git
+git clone https://github.com/cansozbir/TextNumberConverterAPI.git
 ```
 
 Navigate to the project directory:
@@ -29,7 +29,7 @@ docker-compose up
 
 The API will be accessible at http://localhost:5000.
 
-You can also use Swagger to test the API http://localhost:5000/swagger/index.html
+You can also use Swagger to test the API at http://localhost:5000/swagger/index.html
 
 
 ## API Endpoints
@@ -93,4 +93,4 @@ Contributions to the TextNumberConverterAPI project are welcome. To contribute, 
 The TextNumberConverterAPI is open-source software licensed under the MIT License. Feel free to use, modify, and distribute the code according to the terms of the license.
 
 # Contact
-For any questions or feedback, please reach out to the project maintainers at cansozbirdev@gmail.com
+For any questions or feedback, please reach out to the project maintainer at cansozbirdev@gmail.com
