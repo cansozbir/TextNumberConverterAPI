@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextNumberConverterAPI", "TextNumberConverterAPI\TextNumberConverterAPI.csproj", "{8F549C21-F422-4843-B028-B5109EC8E053}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docker", "docker", "{5FAF875E-8E82-459E-929E-04E0DE19B3D2}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextNumberConverterAPI.Tests", "TextNumberConverterAPI.Tests\TextNumberConverterAPI.Tests.csproj", "{48900341-AD50-4E6B-8947-811A12D1B5A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F549C21-F422-4843-B028-B5109EC8E053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F549C21-F422-4843-B028-B5109EC8E053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F549C21-F422-4843-B028-B5109EC8E053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F549C21-F422-4843-B028-B5109EC8E053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48900341-AD50-4E6B-8947-811A12D1B5A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48900341-AD50-4E6B-8947-811A12D1B5A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48900341-AD50-4E6B-8947-811A12D1B5A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48900341-AD50-4E6B-8947-811A12D1B5A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

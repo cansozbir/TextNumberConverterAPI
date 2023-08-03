@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0b4f3ab7_002D150d_002D4b26_002Db9af_002Df34c9841b68f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ConvertTextToNumber_ShouldReturnConvertedText" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::48900341-AD50-4E6B-8947-811A12D1B5A3::net7.0::TextNumberConverterAPI.Tests.ConverterRepositoryTests.ConvertTextToNumber_ValidInput_ShouldReturnExpectedOutput&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=800d0ad9_002Dcdd3_002D499b_002D8768_002D6668116ccd36/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ConvertTextToNumber_ValidInput_ShouldReturnExpectedOutput" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Solution /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fdc69fbe_002D4f56_002D42ff_002D8976_002Dff7483192d1b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TextNumberConverterControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::48900341-AD50-4E6B-8947-811A12D1B5A3::net7.0::TextNumberConverterAPI.Tests.TextNumberConverterControllerTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::48900341-AD50-4E6B-8947-811A12D1B5A3::net7.0::TextNumberConverterAPI.Tests.ConverterRepositoryTests.ConvertTextToNumber_WhenCalled_ReturnsCorrectlyConvertedText_2&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

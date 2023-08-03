@@ -1,0 +1,8 @@
+﻿services:
+  textnumberconverterapi:
+    image: textnumberconverterapi
+    build:
+      context: .
+      dockerfile: TextNumberConverterAPI/Dockerfile
+    ports:
+      - "5000:80"
