@@ -4,6 +4,9 @@
 
 The TextNumberConverterAPI is a RESTful API that allows users to convert text containing numbers into their corresponding numeric representation. The API supports the conversion of Turkish numbers and provides a flexible architecture to support additional languages in the future.
 
+Publicly available at : https://textnumberconverterapi-wa.azurewebsites.net <br>
+Swagger UI: https://textnumberconverterapi-wa.azurewebsites.net/swagger/index.html
+
 
 ## Installation and Setup
 To run the TextNumberConverterAPI on your machine, make sure you have the following prerequisites installed:
